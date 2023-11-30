@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+.escudocbba {
+    position: relative;
+    left: 960px;
+    bottom: 170px;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+    left: 100px;
+}

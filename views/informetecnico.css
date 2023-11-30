@@ -1,0 +1,105 @@
+body {
+    background-color: aqua;
+}
+
+.escudocbba {
+    position: relative;
+    left: 960px;
+    bottom: 170px;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+    left: 100px;
+}
+
+.motivo {
+    position: relative;
+    left: 130px;
+    bottom: 38px;
+}
+
+.tiposolicitud {
+    position: relative;
+    left: 10px;
+}
+
+.motivo1 {
+    position: relative;
+    left: 75px;
+}
+
+.tiposolisitud1 {
+    position: relative;
+    left: 10px;
+}
+
+.descripciones {
+    position: relative;
+    bottom: 140px;
+}
+
+.evaluaciontecnica {
+    position: relative;
+    bottom: 140px;
+}
+
+.fininfo {
+    position: relative;
+    left: 70px;
+}
+
+.nosi {
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+
+.lbl {
+    display: inline-block;
+    width: 65px;
+    height: 33px;
+    background: #979797;
+    border-radius: 100px;
+    cursor: pointer;
+    position: relative;
+    transition: .2s;
+}
+
+.lbl::after {
+    content: '';
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: #eee;
+    border-radius: 100px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    transition: .2s;
+}
+
+#switch:checked+.lbl::after {
+    left: 36px;
+}
+
+#switch:checked+.lbl {
+    background: #00c8B1;
+}
+
+#switch {
+    display: none;
+}
+
+.switch-container {
+    position: relative;
+    bottom: 40px;
+    left: 273px;
+}
+
+.coresponde {
+    position: relative;
+    left: 30px;
+}

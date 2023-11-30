@@ -1,0 +1,140 @@
+body {
+    background-color: rgb(234, 84, 124);
+}
+
+
+header {
+    background-color: rgb(249, 177, 84);
+    margin: 3px;
+    color:rgb(234, 84, 124) ;
+}
+
+
+.titulo2{
+    position: relative;
+    bottom: 100px;
+    left: 10px;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.nombrecompleton{
+    position: relative;
+    bottom: 700px;
+    left:400px;
+}
+.nombre1 {
+    position: relative;
+    bottom: 700px;
+    left:400px;
+}
+.tiposolicitudt{
+    position: relative;
+    bottom: 700px;
+    left:430px;
+}
+.tiposolicituds{
+    position: relative;
+    bottom: 700px;
+    left:430px;
+}
+.mapam{
+    position: relative;
+    bottom: 700px;
+    left:450px;
+}
+.ubicacion{
+    position: relative;
+    bottom: 680px;
+    left:450px;
+}
+.observaciono{
+    position: relative;
+    bottom: 650px;
+    left:100px;
+}
+.Observacion{
+    position: relative;
+    bottom: 500px;
+    left:100px;
+    
+}
+.registrar{
+    position: relative;
+    bottom: 450px;
+    left:400px;
+}
+.adjuntar{
+    position: relative;
+    bottom: 450px;
+    left:500px;
+}
+footer {
+    background-color: rgb(249, 177, 84);
+    text-align: center;
+}
+
+.pie1 {   width: 150px;
+    position: relative;
+    margin: 3px;
+} 
+.formularioubicacion{
+    position: relative;
+    left: 310px;
+   
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    height: 700px;
+    border-radius: 5%;
+}
+
+.cochaalcaldiaimg{
+    text-align: center;
+    position: relative;
+    left: 70px;
+    top: 30px;
+    width: 400px;
+}
+.botonregistrarubicacion{
+    color: rgb(234, 84, 124) ; 
+    text-decoration: none;
+   
+    text-align: center;
+    background-color: rgb(249, 177, 84) ; 
+    font-size: 14px;
+    padding: 15px;
+    margin: 100px;
+    display: 500px;
+    position: relative;
+    right: 300px;
+    bottom:400px;
+    margin-bottom: 300px;
+    width: 30%;
+
+}
+.botonadjuntarfotos{
+    color: rgb(234, 84, 124) ; 
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(249, 177, 84) ; 
+    font-size: 14px;
+    padding: 15px;
+   
+    position: relative;
+    right: 350px;
+    bottom:400px;
+  
+
+}
+.botonregistrarubicacion:hover {
+    color: white; 
+}
+.botonadjuntarfotos:hover {
+    color: white; 
+}
+

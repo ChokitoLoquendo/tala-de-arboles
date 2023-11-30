@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+}
+
+.escudocbba {
+    position: relative;
+    left: 960px;
+    bottom: 170px;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+    left: 100px;
+}
+
+.motivo {
+    position: relative;
+    bottom: 360px;
+    left: 130px;
+}
+
+.tiposolicitud {
+    position: relative;
+    left: 10px;
+}
+
+.motivo1 {
+    position: relative;
+    left: 75px;
+}
+
+.tiposolisitud1 {
+    position: relative;
+    left: 10px;
+}
+
+.infobtn {
+    position: relative;
+    left: 230px;
+}
